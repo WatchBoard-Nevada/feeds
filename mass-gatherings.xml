@@ -5,39 +5,74 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings.xml</link>
     <description>Large upcoming events in Nevada that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:40:23 GMT</lastBuildDate>
     <item>
-      <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Attendance figures unable to confirm)</title>
-      <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
-      <description>No attendance figure found for this game. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <title>UNLV vs. North Dakota State at Allegiant Stadium, Las Vegas (Clark County), Oct 10, 2026 (Confidence: Moderate)</title>
+      <link>https://www.news3lv.com/sports/content/unlv-football-2026-mountain-west-conference-schedule-dan-mullen-rebels-sports-las-vegas-nevada-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">unlv-ndsu-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/what-you-need-to-know-about-2026-nfl-schedule-release-raiders-strength-of-schedule-opponents</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
       <guid isPermaLink="false">raiders-bills-2026-10-18</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>Raiders vs. Rams at Allegiant Stadium, Las Vegas (Clark County), Oct 25, 2026 (Attendance figures unable to confirm)</title>
-      <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
-      <description>No attendance figure found for this game. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <title>Raiders vs. Rams at Allegiant Stadium, Las Vegas (Clark County), Oct 25, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/what-you-need-to-know-about-2026-nfl-schedule-release-raiders-strength-of-schedule-opponents</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
       <guid isPermaLink="false">raiders-rams-2026-10-25</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nevada Day Parade, Carson City (Carson City), Oct 31, 2026 (Attendance figures unable to confirm)</title>
+      <title>Nevada vs. San Jose State at Mackay Stadium, Reno (Washoe County), Oct 24, 2026 (Confidence: Moderate)</title>
+      <link>https://en.wikipedia.org/wiki/Nevada_Wolf_Pack_football</link>
+      <description>Venue capacity is about 27,000 for 1 day, per Wikipedia. No game attendance estimate found. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">wolfpack-sjsu-2026-10-24</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nevada Day Parade, Carson City (Carson City), Oct 30-Nov 1, 2026 (Attendance figures unable to confirm)</title>
       <link>https://www.carsonnow.org/08/31/2026/nevada-day-parade-entries-artist-vendors-and-volunteers-needed-spots-filling-fast</link>
-      <description>No reliable attendance figure found. Reports describe large crowds on Carson Street. A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
+      <description>No reliable attendance figure found. The parade is Oct 31. A listing site guesses 5,000 but it is not an official count. Reports describe large crowds on Carson Street. A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
       <guid isPermaLink="false">nevada-day-parade-2026-10-31</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>SEMA Show, Las Vegas (Clark County), Nov 3-6, 2026 (Confidence: Moderate)</title>
-      <link>https://www.bodyshopbusiness.com/?p=227363</link>
-      <description>Trade press reports more than 153,000 expected attendees in total over 4 days, citing organizer projections. SEMA has not published a final 2026 count. Expect the heaviest trade show load of the fall: more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants. (Confidence: Moderate)</description>
-      <guid isPermaLink="false">sema-show-2026-11-03</guid>
-      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+      <title>UNLV vs. Northern Illinois at Allegiant Stadium, Las Vegas (Clark County), Oct 31, 2026 (Confidence: Moderate)</title>
+      <link>https://www.news3lv.com/sports/content/unlv-football-2026-mountain-west-conference-schedule-dan-mullen-rebels-sports-las-vegas-nevada-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Falls on Halloween night. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">unlv-niu-2026-10-31</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
     </item>
     <item>
-      <title>Raiders vs. Seahawks at Allegiant Stadium, Las Vegas (Clark County), Nov 15, 2026 (Attendance figures unable to confirm)</title>
-      <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
-      <description>No attendance figure found for this game. It falls the day before RE+ begins and four days before Grand Prix week. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <title>SEMA Show, Las Vegas (Clark County), Nov 3-6, 2026 (Confidence: High)</title>
+      <link>https://www.semashow.com/why-exhibit</link>
+      <description>The organizer lists 153,000+ attendees in total over 4 days for this year's show. Buyers are about 70,000 of that. Expect the heaviest trade show load of the fall: more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants. (Confidence: High)</description>
+      <guid isPermaLink="false">sema-show-2026-11-03</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nevada vs. New Mexico at Mackay Stadium, Reno (Washoe County), Nov 6-7, 2026 (Confidence: Moderate)</title>
+      <link>https://en.wikipedia.org/wiki/Nevada_Wolf_Pack_football</link>
+      <description>Venue capacity is about 27,000 for 1 day, per Wikipedia. No game attendance estimate found. Sources differ on the date. A TV report says Friday Nov 6. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">wolfpack-new-mexico-2026-11-06</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNLV vs. Wyoming at Allegiant Stadium, Las Vegas (Clark County), Nov 7, 2026 (Confidence: Moderate)</title>
+      <link>https://www.news3lv.com/sports/content/unlv-football-2026-mountain-west-conference-schedule-dan-mullen-rebels-sports-las-vegas-nevada-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Falls during SEMA week. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">unlv-wyoming-2026-11-07</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Seahawks at Allegiant Stadium, Las Vegas (Clark County), Nov 15, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/what-you-need-to-know-about-2026-nfl-schedule-release-raiders-strength-of-schedule-opponents</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. It falls the day before RE+ begins and four days before Grand Prix week. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
       <guid isPermaLink="false">raiders-seahawks-2026-11-15</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
@@ -56,6 +91,20 @@
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nevada vs. Hawaii at Mackay Stadium, Reno (Washoe County), Nov 21, 2026 (Confidence: Moderate)</title>
+      <link>https://en.wikipedia.org/wiki/Nevada_Wolf_Pack_football</link>
+      <description>Venue capacity is about 27,000 for 1 day, per Wikipedia. No game attendance estimate found. This is Senior Day. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">wolfpack-hawaii-2026-11-21</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNLV vs. Nevada (Fremont Cannon) at Allegiant Stadium, Las Vegas (Clark County), Nov 28, 2026 (Confidence: Moderate)</title>
+      <link>https://www.news3lv.com/sports/content/unlv-football-2026-mountain-west-conference-schedule-dan-mullen-rebels-sports-las-vegas-nevada-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Falls on Thanksgiving weekend. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">unlv-nevada-2026-11-28</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
+    </item>
+    <item>
       <title>AWS re:Invent, Las Vegas (Clark County), Nov 30-Dec 4, 2026 (Attendance figures unable to confirm)</title>
       <link>https://aws.amazon.com/events/reinvent/</link>
       <description>No official attendance figure found, and sources differ on exact dates. Venues are Strip resorts. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages. (Attendance figures unable to confirm)</description>
@@ -65,9 +114,16 @@
     <item>
       <title>National Finals Rodeo, Las Vegas (Clark County), Dec 3-12, 2026 (Confidence: Moderate)</title>
       <link>https://www.8newsnow.com/news/local-news/wrangler-nfr-sets-new-attendance-record-in-las-vegas/amp/</link>
-      <description>Last year's official total was 175,846 over 10 performances. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
+      <description>Last year's official total was 175,846 over 10 performances. Cowboy Christmas and a hunting expo drew 347,571 combined at the Convention Center South Halls in 2025. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
       <guid isPermaLink="false">nfr-2026-12-03</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Chargers at Allegiant Stadium, Las Vegas (Clark County), Dec 13, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/what-you-need-to-know-about-2026-nfl-schedule-release-raiders-strength-of-schedule-opponents</link>
+      <description>Venue capacity is about 65,000 for 1 day, per Sportskeeda. No game attendance estimate found. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-chargers-2026-12-13</guid>
+      <pubDate>Sat, 10 Oct 2026 17:40:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
