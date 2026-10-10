@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Clark County: Upcoming Mass Gatherings</title>
+    <link>https://watchboard-nevada.github.io/feeds/mass-gatherings-clark.xml</link>
+    <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2026 17:55:43 +0000</lastBuildDate>
+    <item>
+      <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-bills-2026-10-18</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Rams at Allegiant Stadium, Las Vegas (Clark County), Oct 25, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-rams-2026-10-25</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEMA Show, Las Vegas (Clark County), Nov 3-6, 2026 (Confidence: Moderate)</title>
+      <link>https://www.semashow.com/why-exhibit</link>
+      <description>SEMA lists 153,000+ total attendees over 4 days, including 70,000+ buyers. Trade press reports the same figure as the 2026 expectation. The SEMA page does not date the figure. Expect more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">sema-show-2026-11-03</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Seahawks at Allegiant Stadium, Las Vegas (Clark County), Nov 15, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. It falls the day before RE+ begins and four days before Grand Prix week. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-seahawks-2026-11-15</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RE+ Solar and Clean Energy Show, Las Vegas (Clark County), Nov 16-19, 2026 (Confidence: Moderate)</title>
+      <link>https://exhibitcitynews.com/las-vegas-events-tourism-new-shows-recap/</link>
+      <description>About 39,000 attendees in total over 4 days, per an Exhibit City News calendar. That figure is for last year's show. No 2026 figure found. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages near the Convention Center. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">re-plus-2026-11-16</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las Vegas Grand Prix (Formula 1), Las Vegas (Clark County), Nov 19-21, 2026 (Confidence: Moderate)</title>
+      <link>https://www.fox5vegas.com/2025/12/10/las-vegas-grand-prix-draws-record-crowds-celebrity-attendance-third-year</link>
+      <description>Organizers said last year's race drew more than 300,000 fans in total over 3 days. No 2026 figure yet. Police counted far fewer in 2024, so treat the total as an organizer claim. Expect road closures near the Strip, delayed ambulance transport, more intoxication and cold night exposure calls, and rideshare and taxi shortages. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">las-vegas-grand-prix-2026-11-19</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS re:Invent, Las Vegas (Clark County), Nov 30-Dec 4, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://aws.amazon.com/events/reinvent/</link>
+      <description>AWS confirms the dates but publishes no attendance figure. Third-party listings disagree and none is official. Venues are Strip resorts. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">aws-reinvent-2026-11-30</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Finals Rodeo, Las Vegas (Clark County), Dec 3-12, 2026 (Confidence: Moderate)</title>
+      <link>https://www.8newsnow.com/news/local-news/wrangler-nfr-sets-new-attendance-record-in-las-vegas/amp/</link>
+      <description>Last year's official total was 175,846 over 10 performances, about 17,584 per night. Cowboy Christmas and a hunting expo drew 347,571 combined at the Convention Center South Halls in 2025. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">nfr-2026-12-03</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
