@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Nevada Mass Gathering Scan</title>
+    <link>https://watchboard-nevada.github.io/feeds/mass-gatherings.xml</link>
+    <description>Large upcoming events in Nevada that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2026 17:12:00 +0000</lastBuildDate>
+    <item>
+      <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
+      <description>No attendance figure found for this game. The stadium seats 65,000 but no source gave expected attendance. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">raiders-bills-2026-10-18</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Rams at Allegiant Stadium, Las Vegas (Clark County), Oct 25, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
+      <description>No attendance figure found for this game. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">raiders-rams-2026-10-25</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEMA Show, Las Vegas (Clark County), Nov 3-6, 2026 (Confidence: Moderate)</title>
+      <link>https://www.semashow.com/why-exhibit</link>
+      <description>SEMA's exhibitor page reports 153,000+ attendees. This looks like a past show figure, not a 2026 forecast. Expect the heaviest trade show load of the fall: more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">sema-show-2026-11-03</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Seahawks at Allegiant Stadium, Las Vegas (Clark County), Nov 15, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
+      <description>No attendance figure found for this game. It falls the day before RE+ begins and four days before Grand Prix week. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">raiders-seahawks-2026-11-15</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RE+ Solar and Clean Energy Show, Las Vegas (Clark County), Nov 16-19, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://inspenet.com/en/events/re-2026-in-las-vegas-the-big-clean-energy-event-in-north-america/</link>
+      <description>No official attendance figure found. Listing sites disagree and none is an official source. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages near the Convention Center. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">re-plus-2026-11-16</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las Vegas Grand Prix (Formula 1), Las Vegas (Clark County), Nov 19-21, 2026 (Confidence: Moderate)</title>
+      <link>https://www.yogonet.com/international/news/2026/06/05/122929-formula-1-extends-las-vegas-grand-prix-deal-through-2037</link>
+      <description>Formula 1 reported 300,000 attendees over three days for last year's race. No 2026 figure yet. Expect road closures near the Strip, delayed ambulance transport, more intoxication and cold night exposure calls, and rideshare and taxi shortages. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">las-vegas-grand-prix-2026-11-19</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS re:Invent, Las Vegas (Clark County), Nov 30-Dec 4, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://aws.amazon.com/events/reinvent/</link>
+      <description>No official attendance figure found, and sources differ on exact dates. Venues are Strip resorts. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">aws-reinvent-2026-11-30</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Finals Rodeo, Las Vegas (Clark County), Dec 3-12, 2026 (Confidence: Moderate)</title>
+      <link>https://www.news3lv.com/news/local/national-finals-rodeo-returns-to-las-vegas-boosting-local-economy</link>
+      <description>The most recent official total I found is 173,350 over the 10 days in 2022. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">nfr-2026-12-03</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevada Day Parade, Carson City (independent city), Oct 31, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.carsonnow.org/08/31/2026/nevada-day-parade-entries-artist-vendors-and-volunteers-needed-spots-filling-fast</link>
+      <description>No reliable attendance figure found. Listings range from thousands to organizer claims of tens of thousands. A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">nevada-day-parade-2026-10-31</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
