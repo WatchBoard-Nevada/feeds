@@ -5,11 +5,11 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings.xml</link>
     <description>Large upcoming events in Nevada that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:29:18 +0000</lastBuildDate>
     <item>
       <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Attendance figures unable to confirm)</title>
       <link>https://www.raiders.com/news/las-vegas-raiders-2026-schedule-release-nfl-regular-season-allegiant-stadium</link>
-      <description>No attendance figure found for this game. The stadium seats 65,000 but no source gave expected attendance. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
+      <description>No attendance figure found for this game. Raiders home games bring a large crowd to the Allegiant Stadium area. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Attendance figures unable to confirm)</description>
       <guid isPermaLink="false">raiders-bills-2026-10-18</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
@@ -21,9 +21,16 @@
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nevada Day Parade, Carson City (Carson City), Oct 31, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.carsonnow.org/08/31/2026/nevada-day-parade-entries-artist-vendors-and-volunteers-needed-spots-filling-fast</link>
+      <description>No reliable attendance figure found. Reports describe large crowds on Carson Street. A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">nevada-day-parade-2026-10-31</guid>
+      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SEMA Show, Las Vegas (Clark County), Nov 3-6, 2026 (Confidence: Moderate)</title>
-      <link>https://www.semashow.com/why-exhibit</link>
-      <description>SEMA's exhibitor page reports 153,000+ attendees. This looks like a past show figure, not a 2026 forecast. Expect the heaviest trade show load of the fall: more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants. (Confidence: Moderate)</description>
+      <link>https://www.bodyshopbusiness.com/?p=227363</link>
+      <description>Trade press reports more than 153,000 expected attendees in total over 4 days, citing organizer projections. SEMA has not published a final 2026 count. Expect the heaviest trade show load of the fall: more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants. (Confidence: Moderate)</description>
       <guid isPermaLink="false">sema-show-2026-11-03</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
@@ -43,8 +50,8 @@
     </item>
     <item>
       <title>Las Vegas Grand Prix (Formula 1), Las Vegas (Clark County), Nov 19-21, 2026 (Confidence: Moderate)</title>
-      <link>https://www.yogonet.com/international/news/2026/06/05/122929-formula-1-extends-las-vegas-grand-prix-deal-through-2037</link>
-      <description>Formula 1 reported 300,000 attendees over three days for last year's race. No 2026 figure yet. Expect road closures near the Strip, delayed ambulance transport, more intoxication and cold night exposure calls, and rideshare and taxi shortages. (Confidence: Moderate)</description>
+      <link>https://www.fox5vegas.com/2025/12/10/las-vegas-grand-prix-draws-record-crowds-celebrity-attendance-third-year</link>
+      <description>Organizers said last year's race drew more than 300,000 fans in total over 3 days. No 2026 figure yet. Police counted far fewer in 2024, so treat the total as an organizer claim. Expect road closures near the Strip, delayed ambulance transport, more intoxication and cold night exposure calls, and rideshare and taxi shortages. (Confidence: Moderate)</description>
       <guid isPermaLink="false">las-vegas-grand-prix-2026-11-19</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
@@ -57,16 +64,9 @@
     </item>
     <item>
       <title>National Finals Rodeo, Las Vegas (Clark County), Dec 3-12, 2026 (Confidence: Moderate)</title>
-      <link>https://www.news3lv.com/news/local/national-finals-rodeo-returns-to-las-vegas-boosting-local-economy</link>
-      <description>The most recent official total I found is 173,350 over the 10 days in 2022. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
+      <link>https://www.8newsnow.com/news/local-news/wrangler-nfr-sets-new-attendance-record-in-las-vegas/amp/</link>
+      <description>Last year's official total was 175,846 over 10 performances. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
       <guid isPermaLink="false">nfr-2026-12-03</guid>
-      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nevada Day Parade, Carson City (independent city), Oct 31, 2026 (Attendance figures unable to confirm)</title>
-      <link>https://www.carsonnow.org/08/31/2026/nevada-day-parade-entries-artist-vendors-and-volunteers-needed-spots-filling-fast</link>
-      <description>No reliable attendance figure found. Listings range from thousands to organizer claims of tens of thousands. A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
-      <guid isPermaLink="false">nevada-day-parade-2026-10-31</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
   </channel>
