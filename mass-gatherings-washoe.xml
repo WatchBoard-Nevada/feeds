@@ -5,6 +5,27 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings-washoe.xml</link>
     <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 18:08:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:33:21 +0000</lastBuildDate>
+    <item>
+      <title>Nevada Wolf Pack vs. San Jose State at Mackay Stadium, Reno (Washoe County), Oct 24, 2026 (Confidence: Moderate)</title>
+      <link>https://en.wikipedia.org/wiki/2025_Nevada_Wolf_Pack_football_team</link>
+      <description>Last season's average home crowd was about 17,875 for 1 day (six 2025 home games, 107,248 total announced attendance, averaged from the Wikipedia game log). No 2026 figure yet. Expect more routine traveler medical calls, busier EDs near the university, crowded restaurants, and rideshare and taxi shortages after the game. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">nevada-san-jose-state-2026-10-24</guid>
+      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevada Wolf Pack vs. New Mexico at Mackay Stadium, Reno (Washoe County), Nov 7, 2026 (Confidence: Moderate)</title>
+      <link>https://en.wikipedia.org/wiki/2025_Nevada_Wolf_Pack_football_team</link>
+      <description>Last season's average home crowd was about 17,875 for 1 day (six 2025 home games, 107,248 total announced attendance, averaged from the Wikipedia game log). No 2026 figure yet. Expect more routine traveler medical calls, busier EDs near the university, crowded restaurants, and rideshare and taxi shortages after the game. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">nevada-new-mexico-2026-11-07</guid>
+      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevada Wolf Pack vs. Hawaii at Mackay Stadium, Reno (Washoe County), Nov 21, 2026 (Confidence: Moderate)</title>
+      <link>https://en.wikipedia.org/wiki/2025_Nevada_Wolf_Pack_football_team</link>
+      <description>Last season's average home crowd was about 17,875 for 1 day (six 2025 home games, 107,248 total announced attendance, averaged from the Wikipedia game log). No 2026 figure yet. Expect more routine traveler medical calls, busier EDs near the university, crowded restaurants, and rideshare and taxi shortages after the game. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">nevada-hawaii-2026-11-21</guid>
+      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
+    </item>
   </channel>
 </rss>

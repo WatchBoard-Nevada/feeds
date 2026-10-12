@@ -5,20 +5,41 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings-rural.xml</link>
     <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 18:08:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:33:21 +0000</lastBuildDate>
+    <item>
+      <title>Hauntober, Virginia City (Storey County), Oct 1-31, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://visitvirginiacitynv.com/hauntober</link>
+      <description>No attendance figure found. The month-long event runs through Halloween weekend in a town of 787 residents (2020 Census), so a 500-person crowd would pass the 25 percent rule. Expect crowded C Street, steep and uneven walking surfaces, saloon crowds with intoxication-related calls, and slower ambulance access. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">hauntober-virginia-city-2026-10-01</guid>
+      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
+    </item>
     <item>
       <title>Minden-Tahoe SkyFest, Minden (Douglas County), Oct 16-18, 2026 (Attendance figures unable to confirm)</title>
       <link>https://visitcarsonvalley.org/events/minden-tahoe-skyfest-2026/</link>
-      <description>No attendance figure found. County and tourism pages describe a 3-day air show at Minden-Tahoe Airport that draws visitors from Reno, Tahoe and Northern California. Expect more routine traveler medical calls, sun and cold evening exposure, crowded roads near the airport, and slower ambulance access. (Attendance figures unable to confirm)</description>
+      <description>No attendance figure found. Coverage says only "thousands of visitors" at this 3-day air show at Minden-Tahoe Airport. Visitors come from Reno, Tahoe and Northern California. Expect more routine traveler medical calls, sun and cold evening exposure, crowded roads near the airport, and slower ambulance access. (Attendance figures unable to confirm)</description>
       <guid isPermaLink="false">minden-tahoe-skyfest-2026-10-16</guid>
       <pubDate>Sat, 10 Oct 2026 18:08:33 +0000</pubDate>
     </item>
     <item>
+      <title>Beatty Days, Beatty (Nye County), Oct 30-Nov 1, 2026 (Confidence: Moderate)</title>
+      <link>https://pvtimes.com/tonopah/beatty-days-filled-with-history-and-high-jinks-157681/</link>
+      <description>The Chamber of Commerce estimated about 600 people over 3 days at last year's event, per the Pahrump Valley Times. No 2026 figure yet. Beatty has 880 residents (2020 Census), so 600 people is about 68 percent of the town and meets the 25 percent rule. Expect strain on the town's clinic and ambulance coverage, and crowded roads and restaurants. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">beatty-days-2026-10-30</guid>
+      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Nevada Day Parade, Carson City (Carson City), Oct 31, 2026 (Attendance figures unable to confirm)</title>
       <link>https://www.carsonnow.org/08/31/2026/nevada-day-parade-entries-artist-vendors-and-volunteers-needed-spots-filling-fast</link>
-      <description>No attendance figure found. The organizer says only that the parade draws a large crowd to downtown Carson City. A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
+      <description>No 2026 attendance figure found. The organizer says the parade draws tens of thousands of spectators each year, but gives no count. Carson City has 58,639 residents (2020 Census). A large crowd in a small city can strain the local ED and EMS. Expect crowded downtown streets and slower ambulance access. (Attendance figures unable to confirm)</description>
       <guid isPermaLink="false">nevada-day-parade-2026-10-31</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pahrump Social Pow Wow, Pahrump (Nye County), Nov 20-22, 2026 (Confidence: Moderate)</title>
+      <link>https://pvtimes.com/community/social-powwow-attracts-2000-for-three-day/</link>
+      <description>The Pahrump Valley Times reported about 2,000 people over 3 days at an earlier edition. The year was not stated. No 2026 figure yet, and this is borderline for the Rural threshold. The event is free at Petrack Park. Expect more routine traveler medical calls, cold evening exposure, and busier ambulance and clinic demand in Pahrump. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">pahrump-social-pow-wow-2026-11-20</guid>
+      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
