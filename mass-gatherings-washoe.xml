@@ -5,7 +5,7 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings-washoe.xml</link>
     <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 14:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:00:00 +0000</lastBuildDate>
     <item>
       <title>Nevada Wolf Pack vs. San Jose State at Mackay Stadium, Reno (Washoe County), Oct 24, 2026 (Confidence: Moderate)</title>
       <link>https://en.wikipedia.org/wiki/2025_Nevada_Wolf_Pack_football_team</link>
@@ -26,6 +26,13 @@
       <description>Last season's average home crowd was about 17,875 for 1 day (six 2025 home games, 107,248 total announced attendance, averaged from the Wikipedia game log). No 2026 figure yet. Expect more routine traveler medical calls, busier EDs near the university, crowded restaurants, and rideshare and taxi shortages after the game. (Confidence: Moderate)</description>
       <guid isPermaLink="false">nevada-hawaii-2026-11-21</guid>
       <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reno Santa Crawl, Reno (Washoe County), Dec 12, 2026 (Confidence: Moderate)</title>
+      <link>https://travelnevada.com/events/reno-santa-pub-crawl/</link>
+      <description>Alcohol-centered, half threshold applied. Travel Nevada promotes more than 20,000 holiday revelers for 1 evening (8 pm to midnight). This is a state tourism listing, not an organizer or police count. Older Reno Police projections ran near 15,000. Expect intoxication, falls, assaults and impaired driving calls, busier downtown EDs, and rideshare and taxi shortages. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">reno-santa-crawl-2026-12-12</guid>
+      <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

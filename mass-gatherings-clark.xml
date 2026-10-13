@@ -5,7 +5,7 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings-clark.xml</link>
     <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 14:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:00:00 +0000</lastBuildDate>
     <item>
       <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Confidence: Moderate)</title>
       <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
@@ -49,9 +49,9 @@
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWS re:Invent, Las Vegas (Clark County), Nov 30-Dec 4, 2026 (Attendance figures unable to confirm)</title>
-      <link>https://aws.amazon.com/events/reinvent/</link>
-      <description>AWS confirms the dates but publishes no attendance figure. Third-party listings disagree and none is official. Venues are Strip resorts. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages. (Attendance figures unable to confirm)</description>
+      <title>AWS re:Invent, Las Vegas (Clark County), Nov 30-Dec 4, 2026 (Confidence: Moderate)</title>
+      <link>https://aws.amazon.com/blogs/security/category/events/reinvent/</link>
+      <description>Third-party reports put last year's (2025) show at more than 60,000 in-person attendees over 5 days. AWS's own security blog cited more than 54,000 for 2024. AWS has not published a 2026 figure or a 2025 count. Expect more routine traveler medical calls, busier EDs, rideshare and taxi shortages, and crowded restaurants near the Strip. (Confidence: Moderate)</description>
       <guid isPermaLink="false">aws-reinvent-2026-11-30</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
@@ -61,6 +61,13 @@
       <description>Last year's official total was 175,846 over 10 performances, about 17,584 per night. Cowboy Christmas and a hunting expo drew 347,571 combined at the Convention Center South Halls in 2025. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
       <guid isPermaLink="false">nfr-2026-12-03</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jason Aldean and Luke Bryan Double Down Tour at Allegiant Stadium, Las Vegas (Clark County), Dec 11, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.allegiantstadium.com/events/detail/double-down-tour-26</link>
+      <description>No attendance figure found. The venue lists the date and openers only. Stadium concerts of this size can pass the Clark threshold, so the event is included. Expect more routine traveler medical calls, intoxication calls, busier EDs near the stadium, and rideshare and taxi shortages after the show. It falls during the National Finals Rodeo run. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">aldean-bryan-allegiant-2026-12-11</guid>
+      <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
