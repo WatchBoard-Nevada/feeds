@@ -5,14 +5,7 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings-clark.xml</link>
     <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Raiders vs. Bills at Allegiant Stadium, Las Vegas (Clark County), Oct 18, 2026 (Confidence: Moderate)</title>
-      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
-      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
-      <guid isPermaLink="false">raiders-bills-2026-10-18</guid>
-      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 14:00:00 +0000</lastBuildDate>
     <item>
       <title>Raiders vs. Rams at Allegiant Stadium, Las Vegas (Clark County), Oct 25, 2026 (Confidence: Moderate)</title>
       <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
@@ -61,6 +54,13 @@
       <description>Last year's official total was 175,846 over 10 performances, about 17,584 per night. Cowboy Christmas and a hunting expo drew 347,571 combined at the Convention Center South Halls in 2025. No 2026 figure yet. Expect nightly crowds at the Thomas &amp; Mack Center, more traveler medical calls and intoxication, busier EDs, and rideshare and taxi shortages near UNLV and the Strip. (Confidence: Moderate)</description>
       <guid isPermaLink="false">nfr-2026-12-03</guid>
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raiders vs. Chargers at Allegiant Stadium, Las Vegas (Clark County), Dec 13, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. The game falls the day after the Aldean and Luke Bryan stadium show and during National Finals Rodeo week. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-chargers-2026-12-13</guid>
+      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jason Aldean and Luke Bryan Double Down Tour at Allegiant Stadium, Las Vegas (Clark County), Dec 11, 2026 (Attendance figures unable to confirm)</title>
