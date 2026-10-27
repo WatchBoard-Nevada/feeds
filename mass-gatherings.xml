@@ -5,27 +5,13 @@
     <link>https://watchboard-nevada.github.io/feeds/mass-gatherings.xml</link>
     <description>Large upcoming events that may raise EMS call volume and hospital demand. Updated weekly. Each item shows a confidence level for its attendance figure.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:00:00 +0000</lastBuildDate>
     <item>
       <title>[Rural] Hauntober, Virginia City (Storey County), Oct 1-31, 2026 (Attendance figures unable to confirm)</title>
       <link>https://visitvirginiacitynv.com/hauntober</link>
       <description>No attendance figure found. The month-long event runs through Halloween weekend in a town of 787 residents (2020 Census), so a 500-person crowd would pass the 25 percent rule. Expect crowded C Street, steep and uneven walking surfaces, saloon crowds with intoxication-related calls, and slower ambulance access. (Attendance figures unable to confirm)</description>
       <guid isPermaLink="false">hauntober-virginia-city-2026-10-01</guid>
       <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Washoe] Nevada Wolf Pack vs. San Jose State at Mackay Stadium, Reno (Washoe County), Oct 24, 2026 (Confidence: Moderate)</title>
-      <link>https://en.wikipedia.org/wiki/2025_Nevada_Wolf_Pack_football_team</link>
-      <description>Last season's average home crowd was about 17,875 for 1 day (six 2025 home games, 107,248 total announced attendance, averaged from the Wikipedia game log). No 2026 figure yet. Expect more routine traveler medical calls, busier EDs near the university, crowded restaurants, and rideshare and taxi shortages after the game. (Confidence: Moderate)</description>
-      <guid isPermaLink="false">nevada-san-jose-state-2026-10-24</guid>
-      <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Clark] Raiders vs. Rams at Allegiant Stadium, Las Vegas (Clark County), Oct 25, 2026 (Confidence: Moderate)</title>
-      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
-      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. Expect more routine traveler medical calls, busier EDs near the stadium, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
-      <guid isPermaLink="false">raiders-rams-2026-10-25</guid>
-      <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
       <title>[Rural] Beatty Days, Beatty (Nye County), Oct 30-Nov 1, 2026 (Confidence: Moderate)</title>
@@ -84,6 +70,13 @@
       <pubDate>Mon, 12 Oct 2026 14:33:21 +0000</pubDate>
     </item>
     <item>
+      <title>[Clark] Neon City Festival, Las Vegas (Clark County), Nov 20-22, 2026 (Attendance figures unable to confirm)</title>
+      <link>https://www.fox5vegas.com/2026/10/06/neon-city-festival-announces-expanded-2026-lineup/</link>
+      <description>No attendance figure found. The free, all-ages music festival spans about five downtown blocks and overlaps Grand Prix weekend. Expect crowded Fremont Street, more intoxication and cold night exposure calls, delayed ambulance access, and rideshare and taxi shortages. (Attendance figures unable to confirm)</description>
+      <guid isPermaLink="false">neon-city-festival-2026-11-20</guid>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Washoe] Nevada Wolf Pack vs. Hawaii at Mackay Stadium, Reno (Washoe County), Nov 21, 2026 (Confidence: Moderate)</title>
       <link>https://en.wikipedia.org/wiki/2025_Nevada_Wolf_Pack_football_team</link>
       <description>Last season's average home crowd was about 17,875 for 1 day (six 2025 home games, 107,248 total announced attendance, averaged from the Wikipedia game log). No 2026 figure yet. Expect more routine traveler medical calls, busier EDs near the university, crowded restaurants, and rideshare and taxi shortages after the game. (Confidence: Moderate)</description>
@@ -105,13 +98,6 @@
       <pubDate>Sat, 10 Oct 2026 17:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Clark] Raiders vs. Chargers at Allegiant Stadium, Las Vegas (Clark County), Dec 13, 2026 (Confidence: Moderate)</title>
-      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
-      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. The game falls the day after the Aldean and Luke Bryan stadium show and during National Finals Rodeo week. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
-      <guid isPermaLink="false">raiders-chargers-2026-12-13</guid>
-      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Clark] Jason Aldean and Luke Bryan Double Down Tour at Allegiant Stadium, Las Vegas (Clark County), Dec 11, 2026 (Attendance figures unable to confirm)</title>
       <link>https://www.allegiantstadium.com/events/detail/double-down-tour-26</link>
       <description>No attendance figure found. The venue lists the date and openers only. Stadium concerts of this size can pass the Clark threshold, so the event is included. Expect more routine traveler medical calls, intoxication calls, busier EDs near the stadium, and rideshare and taxi shortages after the show. It falls during the National Finals Rodeo run. (Attendance figures unable to confirm)</description>
@@ -124,6 +110,20 @@
       <description>Alcohol-centered, half threshold applied. Travel Nevada promotes more than 20,000 holiday revelers for 1 evening (8 pm to midnight). This is a state tourism listing, not an organizer or police count. Older Reno Police projections ran near 15,000. Expect intoxication, falls, assaults and impaired driving calls, busier downtown EDs, and rideshare and taxi shortages. (Confidence: Moderate)</description>
       <guid isPermaLink="false">reno-santa-crawl-2026-12-12</guid>
       <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Clark] Raiders vs. Chargers at Allegiant Stadium, Las Vegas (Clark County), Dec 13, 2026 (Confidence: Moderate)</title>
+      <link>https://www.raiders.com/news/game-by-game-breakdown-raiders-2026-schedule-release-nfl-allegiant-stadium</link>
+      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. The game falls the day after the Aldean and Luke Bryan stadium show and during National Finals Rodeo week. Expect more routine traveler medical calls, busier EDs, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-chargers-2026-12-13</guid>
+      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Clark] Raiders vs. Broncos at Allegiant Stadium, Las Vegas (Clark County), Dec 20, 2026 (Confidence: Moderate)</title>
+      <link>https://www.visitlasvegas.com/experience/post/the-raiders-schedule-release-is-here/</link>
+      <description>Venue capacity is about 65,000 for 1 day. NFL games use about 62,500 fixed seats, per Las Vegas Stadium Authority documents reported by the Review-Journal. This is venue capacity, not a game count. Expect more routine traveler medical calls, busier EDs near the stadium, cold evening exposure, and rideshare and taxi shortages after the game. Restaurants will be crowded. (Confidence: Moderate)</description>
+      <guid isPermaLink="false">raiders-broncos-2026-12-20</guid>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
